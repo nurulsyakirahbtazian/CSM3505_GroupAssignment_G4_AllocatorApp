@@ -1,1 +1,1 @@
-# CSM3505_GroupAssignment_G4_JobAllocationApp
+# CSM3505_GroupAssignment_G4_AllocatorApp
